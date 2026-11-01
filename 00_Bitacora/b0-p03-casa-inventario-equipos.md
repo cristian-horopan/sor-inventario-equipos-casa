@@ -114,8 +114,8 @@ Porque los equipos pueden cambiar de ubicación, estado o incorporarse nuevos. E
 
 Comprobando el repositorio en GitHub y revisando que la bitácora tuviera su contenido completo y los enlaces correspondientes. El cierre se realiza después del vídeo porque primero hay que terminar la grabación, subirla a YouTube y conseguir sus enlaces para incorporarlos a la bitácora.
 ## Enlaces
-- **Vídeo de esta fase:** https://youtu.be/-jrsg7RZMgg
-- **Playlist:** https://www.youtube.com/playlist?list=PLbapTCrs4v18
+   **Vídeo de esta fase:** https://www.youtube.com/watch?v=-jrsg7RZMgg&list=PLbapTCrs4v18&index=1
+- **Playlist:**  https://youtube.com/playlist?list=PLbapTCrs4v18&si=X6WgBGsK9Le2YCOM
 ## Dudas / a repasar
 - Repasar la diferencia entre git add, git commit y git push.
     
